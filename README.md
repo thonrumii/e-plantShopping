@@ -1,4 +1,4 @@
-# e-plantShopping - Paradise Nursery
+# e-plantShopping
 
 Welcome to **e-plantShopping**, an e-commerce web application for Paradise Nursery built using React and Redux Toolkit.
 
